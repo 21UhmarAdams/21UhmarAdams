@@ -1,6 +1,6 @@
 # Uhmar Adams 
 
-📍 Location (City, Country)  
+📍 Cape Town, South Africa  
 📧 adamsuhmar@gmail.com
 0679392004
 🔗 [GitHub](https://github.com/21UhmarAdams) | [LinkedIn](https://linkedin.com/in/yourprofile)
@@ -14,8 +14,7 @@ Application Development student with a strong interest in software development a
 ---
 
 ## 🎓 Education
-
-**Higher Certificate in Application Development**
+**Higher Certificate in Application Development**  
 Cape Peninsula University of Technology -(2023)
 
 **Diploma in Application Development**  
@@ -40,7 +39,7 @@ Your Institution Name — (2024 - 2026)
 - IntelliJ IDEA
 - Note++
 - SQL 
-- 
+  
 
 **Concepts:**  
 - Object-Oriented Programming (OOP)  
@@ -49,40 +48,15 @@ Your Institution Name — (2024 - 2026)
 
 ---
 
-## 📂 Projects
-
-### 🔹 Project 
-**Description:** Short description of what the project does.  
-**Technologies:** Java, (others)  
-**GitHub:** https://github.com/yourusername/project-link  
-
-- Key feature or achievement  
-- Key feature or achievement  
-
 ---
-
-### 🔹 Project Name 2
-**Description:** Short description of the project.  
-**Technologies:** Java, (others)  
-**GitHub:** https://github.com/yourusername/project-link  
-
-- Key feature  
-- Key feature  
-
----
-
-## 🏆 Achievements (Optional)
-
-- Any awards, certifications, or recognitions  
-- Example: Completed Java course on (platform)
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced Java  
-- Web Development (HTML, CSS, JavaScript)  
-- (Anything else you’re learning)
+- Web Development  
+- Gaming Development
 
 ---
 
@@ -94,11 +68,5 @@ Your Institution Name — (2024 - 2026)
 - Time management  
 
 ---
-
-## 📌 Interests (Optional)
-
-- Software development  
-- Open-source contribution  
-- Technology trends  
 
 ---
