@@ -1,8 +1,9 @@
-# Your Name
+# Uhmar Adams 
 
 📍 Location (City, Country)  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 adamsuhmar@gmail.com
+0679392004
+🔗 [GitHub](https://github.com/21UhmarAdams) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -14,8 +15,11 @@ Application Development student with a strong interest in software development a
 
 ## 🎓 Education
 
-**Diploma / Degree in Application Development**  
-Your Institution Name — (Start Year - End Year)
+**Higher Certificate in Application Development**
+Cape Peninsula University of Technology -(2023)
+
+**Diploma in Application Development**  
+Your Institution Name — (2024 - 2026)
 
 - Relevant coursework: Data Structures, Object-Oriented Programming, Databases, Software Engineering
 
@@ -24,13 +28,19 @@ Your Institution Name — (Start Year - End Year)
 ## 💻 Technical Skills
 
 **Languages:**  
-- Java  
-- (Add more: Python, JavaScript, etc.)
-
+- Java
+- Python
+- Javacript
+- SQL
+- HTML/CSS
+  
+  
 **Technologies & Tools:**  
 - Git & GitHub  
-- IntelliJ IDEA / Eclipse  
-- (Add more: SQL, Spring Boot, etc.)
+- IntelliJ IDEA
+- Note++
+- SQL 
+- 
 
 **Concepts:**  
 - Object-Oriented Programming (OOP)  
@@ -41,7 +51,7 @@ Your Institution Name — (Start Year - End Year)
 
 ## 📂 Projects
 
-### 🔹 Project Name 1
+### 🔹 Project 
 **Description:** Short description of what the project does.  
 **Technologies:** Java, (others)  
 **GitHub:** https://github.com/yourusername/project-link  
