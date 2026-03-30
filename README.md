@@ -3,7 +3,7 @@
 📍 Cape Town, South Africa  
 📧 adamsuhmar@gmail.com
 0679392004
-🔗 [GitHub](https://github.com/21UhmarAdams) | [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [GitHub](https://github.com/21UhmarAdams) | [LinkedIn](https://www.linkedin.com/learning/browse/certifications?u=2256146)
 
 ---
 
@@ -18,7 +18,7 @@ Application Development student with a strong interest in software development a
 Cape Peninsula University of Technology -(2023)
 
 **Diploma in Application Development**  
-Your Institution Name — (2024 - 2026)
+Cape Peninsula University Of Technology — (2024 - 2026)
 
 - Relevant coursework: Data Structures, Object-Oriented Programming, Databases, Software Engineering
 
@@ -48,9 +48,6 @@ Your Institution Name — (2024 - 2026)
 
 ---
 
----
-
----
 
 ## 📚 Currently Learning
 
@@ -69,4 +66,3 @@ Your Institution Name — (2024 - 2026)
 
 ---
 
----
