@@ -25,9 +25,12 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 
 - Relevant coursework: Data Structures, Object-Oriented Programming, Databases, Software Engineering
 
+---
+
 ## Experience
 **Lewis Stores**
-Caremn Viljoen 
+
+Caremen Viljoen 
 0659432671
 
 
