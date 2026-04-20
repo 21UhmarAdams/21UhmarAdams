@@ -22,6 +22,12 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 
 - Relevant coursework: Data Structures, Object-Oriented Programming, Databases, Software Engineering
 
+## Experience
+**Lewis Stores**
+Caremn Viljoen (Regional Controller)
+0659432671
+
+
 ---
 
 ## 💻 Technical Skills
@@ -79,6 +85,6 @@ Overall, this exercise showed me that I’m on the right track. With continued p
 Updating and submitting my CV as part of this task was a valuable process that helped me better present my professional and technical background.I focused on improving the structure and layout of my CV to make it more professional and easy to read. I refined the wording of my experience and skills to be more clear, concise, and relevant to the roles I am interested in. I also made sure to highlight my technical abilities more effectively, ensuring they stand out.Uploading my CV to my GitHub portfolio was an important step in building my professional online presence. It allowed me to showcase not only my experience but also my ability to use platforms like GitHub to organize and present my work. This process helped me create a stronger, more polished CV. I now have a clearer understanding of how to present my skills and experience confidently, and I can continue updating it as I gain more experience.
 
 ## Reflection GitHub pages
-
+Using GitHub Pages was a valuable experience in building and presenting my online portfolio. It gave me the opportunity to move beyond just creating files and instead showcase my work in a more professional and accessible way.I learned how to structure my repository, upload and manage files, and ensure that my content is clearly presented for anyone viewing my portfolio. There were some challenges while working with GitHub Pages, especially around formatting and making sure everything displayed correctly, but working through these helped me improve my problem-solving skills and technical confidence. Each adjustment I made helped me better understand how the platform works.
 
 
