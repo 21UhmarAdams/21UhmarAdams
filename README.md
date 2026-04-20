@@ -74,3 +74,11 @@ Saying this i also  do experience social anxiety, which can sometimes make it ch
 I also identified areas to refine, such as making my answers more concise and ensuring they follow a clear structure. Strengthening this will help me communicate my ideas more effectively while keeping my responses engaging and to the point.
 Overall, this exercise showed me that I’m on the right track. With continued practice and consistency, I’m confident in my ability to present myself strongly and handle real interview situations effectively.
 
+---
+## Reflection of CV
+Updating and submitting my CV as part of this task was a valuable process that helped me better present my professional and technical background.I focused on improving the structure and layout of my CV to make it more professional and easy to read. I refined the wording of my experience and skills to be more clear, concise, and relevant to the roles I am interested in. I also made sure to highlight my technical abilities more effectively, ensuring they stand out.Uploading my CV to my GitHub portfolio was an important step in building my professional online presence. It allowed me to showcase not only my experience but also my ability to use platforms like GitHub to organize and present my work. This process helped me create a stronger, more polished CV. I now have a clearer understanding of how to present my skills and experience confidently, and I can continue updating it as I gain more experience.
+
+## Reflection GitHub pages
+
+
+
