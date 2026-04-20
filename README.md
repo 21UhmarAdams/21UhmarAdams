@@ -13,7 +13,7 @@ Application Development student with a strong interest in software development a
 
 ---
 ## 🎯 Objective
-I am a driven Application Development student focused on turning ideas into practical, working solutions. I amm looking for an opportunity to grow as a developer, strengthen my technical skills, and contribute to meaningful projects while building a strong foundation in the software development industry.
+I am a driven Application Development student focused on turning ideas into practical, working solutions. I am looking for an opportunity to grow as a developer, strengthen my technical skills, and contribute to meaningful projects while building a strong foundation in the software development industry.
 
 ---
 ## 🎓 Education
