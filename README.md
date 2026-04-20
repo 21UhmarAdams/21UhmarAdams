@@ -66,3 +66,11 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 
 ---
 
+## Relection of Mock Inteview Video
+As part of our github portfolio we had to create a mock interview ansering 5 questions. These questions ranged from, strengths weaknesses
+and technical strongpoints. 
+Creating and recording my mock interview video was a valuable experience that helped me evaluate how I present myself in a professional setting. I communicated my strengths, technical skills, and motivation clearly, and I have a solid understanding of the key points I want to highlight in interviews.
+Saying this i also  do experience social anxiety, which can sometimes make it challenging for me to express myself as smoothly as I wouldd like. That said, I am actively working on this and improving with practice. Recording this video was part of that progress, and I can already see growth in how I structure and deliver my responses.
+I also identified areas to refine, such as making my answers more concise and ensuring they follow a clear structure. Strengthening this will help me communicate my ideas more effectively while keeping my responses engaging and to the point.
+Overall, this exercise showed me that I’m on the right track. With continued practice and consistency, I’m confident in my ability to present myself strongly and handle real interview situations effectively.
+
