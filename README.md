@@ -12,7 +12,10 @@
 Application Development student with a strong interest in software development and problem-solving. Experienced in Java and object-oriented programming, with a focus on building clean, efficient, and scalable applications. Eager to learn new technologies and contribute to real-world projects.
 
 ---
+## 🎯 Objective
+I am a driven Application Development student focused on turning ideas into practical, working solutions. I amm looking for an opportunity to grow as a developer, strengthen my technical skills, and contribute to meaningful projects while building a strong foundation in the software development industry.
 
+---
 ## 🎓 Education
 **Higher Certificate in Application Development**  
 Cape Peninsula University of Technology -(2023)
