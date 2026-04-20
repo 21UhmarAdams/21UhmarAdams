@@ -29,10 +29,8 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 
 ## Experience
 **Lewis Stores**
-
-Caremen Viljoen 
-0659432671
-
+Debtors Clerk 2023-2025
+Caremen Viljoen 0659432671
 
 ---
 
