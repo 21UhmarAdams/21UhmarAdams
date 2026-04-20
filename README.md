@@ -27,7 +27,7 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 
 ## Experience
 **Lewis Stores**
-Caremn Viljoen (Regional Controller)
+Caremn Viljoen 
 0659432671
 
 
