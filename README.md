@@ -28,6 +28,7 @@ Cape Peninsula University Of Technology — (2024 - 2026)
 ---
 
 ## Experience
+
 **Lewis Stores**
 
 Debtors Clerk 2023-2025
