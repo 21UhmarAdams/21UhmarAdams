@@ -6,6 +6,9 @@
 🔗 [GitHub](https://github.com/21UhmarAdams) | [LinkedIn](https://www.linkedin.com/learning/browse/certifications?u=2256146)
 
 ---
+[Uhmar Project.pdf](https://github.com/user-attachments/files/28144846/Uhmar.Project.pdf)
+
+
 
 ## 🧑‍💻 Profile
 
@@ -77,6 +80,10 @@ Caremen Viljoen 0659432671
 - Time management  
 
 ---
+[Uhmar Adams Cv.pdf](https://github.com/user-attachments/files/28144733/Uhmar.Adams.Cv.pdf)
+
+
+
 
 ## Relection of Mock Inteview Video
 As part of our github portfolio we had to create a mock interview answering 5 questions. These questions ranged from, strengths weaknesses
